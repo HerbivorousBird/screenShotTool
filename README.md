@@ -1,4 +1,4 @@
-"# screenShotTool" A screenshot widget that supports saving graphics, scanning QR code and text OCR.
+文档待完善
 
 该项目用于中南大学地理信息系《面向对象程序设计》课程设计，仅供学习交流使用。
 

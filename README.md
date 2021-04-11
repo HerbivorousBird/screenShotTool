@@ -7,7 +7,7 @@
 该项目release版本已上传，若想测试/使用，可以下载后按提示运行。
 
 
-![功能演示](https://gitee.com/HerbivorousBird/pic-bed/raw/master/img/20210411_182956254.gif)
+![功能演示](功能演示.gif)
 
 面向对象程序设计课程大作业
 
